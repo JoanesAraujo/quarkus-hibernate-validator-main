@@ -1,3 +1,5 @@
+<img width="600" height="300" align="center" src="https://github.com/JoanesAraujo/quarkus-hibernate-validator-main/blob/master/src/main/resources/META-INF/resources/VALIDATION_QUARKUS.png?raw=true">
+
 # quarkus-hibernate-validator-main Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
